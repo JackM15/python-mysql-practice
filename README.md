@@ -8,4 +8,6 @@ Using SQL with Python, getting to grips with it.
 
 03_sql.py: changed to an executemany() method and paramaterized statements.
 
+04_sql.py: read from csv and add to db with a new employees table
+
 carspractice.py : a bit of a playground for it all
