@@ -12,4 +12,6 @@ Using SQL with Python, getting to grips with it.
 
 05_sql.py: Try/Except to catch errors with database connections/data
 
+06_sql.py: Using the SELECT statement
+
 carspractice.py : a bit of a playground for it all
