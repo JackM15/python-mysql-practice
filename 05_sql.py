@@ -15,6 +15,7 @@ try:
 
     #commit changes
     conn.commit()
+    
 except sqlite3.OperationalError:
     print("Oh No, something went wrong, try again!")
 
