@@ -10,4 +10,6 @@ Using SQL with Python, getting to grips with it.
 
 04_sql.py: read from csv and add to db with a new employees table
 
+05_sql.py: Try/Except to catch errors with database connections/data
+
 carspractice.py : a bit of a playground for it all
