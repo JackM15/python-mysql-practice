@@ -14,4 +14,6 @@ Using SQL with Python, getting to grips with it.
 
 06_sql.py: Using the SELECT statement
 
+07_sql.py: Using the fetchall() method to retrieve data
+
 carspractice.py : a bit of a playground for it all
