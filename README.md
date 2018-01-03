@@ -16,4 +16,6 @@ Using SQL with Python, getting to grips with it.
 
 07_sql.py: Using the fetchall() method to retrieve data
 
+08_sql.py: Searched, Updated & Deleted records
+
 carspractice.py : a bit of a playground for it all
