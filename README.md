@@ -19,3 +19,5 @@ Using SQL with Python, getting to grips with it.
 08_sql.py: Searched, Updated & Deleted records
 
 carspractice.py : a bit of a playground for it all
+
+cars_01.py: Add some cars to the cars database
