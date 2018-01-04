@@ -22,6 +22,8 @@ sql_09.py: Added new data
 
 sql_10.py: Practice of SQL Joins
 
+sql_11.py: SQLite Function practice
+
 carspractice.py : a bit of a playground for it all
 
 cars_01.py: Add some cars to the cars database
