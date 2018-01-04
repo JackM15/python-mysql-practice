@@ -21,3 +21,7 @@ Using SQL with Python, getting to grips with it.
 carspractice.py : a bit of a playground for it all
 
 cars_01.py: Add some cars to the cars database
+
+cars_02.py: Edit some car quanities in the database
+
+cars_03.py: Read ford only cars from the database
